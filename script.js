@@ -3,7 +3,7 @@
             let radius = prompt("Enter the radius of the circle:");
             // write you code here and display the result to the user
                    let radiusElement = document.getElementById('radius');
-        let radius = prompt("enter radiyes");
+        
         let cRadius = parseInt(radius);
         if(cRadius>0){
             
